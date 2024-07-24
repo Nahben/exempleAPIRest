@@ -22,7 +22,7 @@ Ce projet est un exercice de création d'un web service REST en C# à partir de 
    ```
 
 3. **Configurer la base de données :**
-   Exécutez le script de création de la base de données fourni dans le fichier [script_creation_bdd.sql](lien-vers-le-fichier) pour configurer votre base de données MySQL.
+   Exécutez le script de création de la base de données fourni dans le fichier [script_creation_bdd.sql](https://github.com/Nahben/exempleAPIRest/blob/master/gestion_culture.sql) pour configurer votre base de données MySQL.
 
 ## Utilisation
 
